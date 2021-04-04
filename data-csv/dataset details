@@ -1,4 +1,5 @@
 This folder contains the dataset for both CTLs & HTLs consisting of peptides along with the features collected. 
 
-Modatac corresponds to CTL dataset & Testev2 contains the experimentally validated data CTL epitopes collected
+Modatac corresponds to CTL dataset & Testev2 contains the experimentally validated data for CTL epitopes collected
+
 Moddatac corresponds to HTL dataset
