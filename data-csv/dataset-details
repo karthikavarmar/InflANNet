@@ -1,13 +1,13 @@
 \\\ This folder contains the dataset for both CTLs & HTLs consisting of peptides along with the features collected.
 
 The CTLs and HTLs were filtered out from the virus strains of all the past outbreaks of Influenza happened. Neuraminidase protein was chosen specifically for this.
-The peptide sequences were passed through a series of tools for getting the valid epitopes with required features and finally, they were pre-processed & narrowed down to the ones presented here.  
+The peptide sequences were passed through a series of tools for getting the valid epitopes with required features, and finally they were pre-processed and narrowed down to the ones presented here.  
 
 
 
 
 DATA
 
-1. Modatac corresponds to CTL dataset & Testev2 contains the experimentally validated data for it.
+1. Modatac corresponds to CTL dataset & Testev2 contains the experimentally proved data for validating the model.
 
 2. Moddatac corresponds to HTL dataset
